@@ -1,7 +1,8 @@
 # Flight-Delay-Prediction
 
-  To predict the flight's delay or cancellation based on machine learning regression algorithm with the help of "Weather Dataset" and "Airports and Flights dataset".
-  Spring boot WebApp with Features :
+  To predict the ✈️ flight's delay or cancellation based on machine learning regression algorithm with the help of "Weather Dataset" and "Airports and Flights dataset".
+ <H3>  Spring boot WebApp with Features : </H3>
+
  * Registration and Login, logout for -- User and Admin
  
  * CRUD Operations on the Admin side for up-to-date Data
@@ -12,13 +13,13 @@
  
  * After User Operations on searching       
 
-# Languages
+# Languages⌨️
 
-- Java 8
+- Java 8 ☕
 - CSS/ HTML
-- PYTHON
+- PYTHON 🐍
 
- # Technologies
+ # 👨‍💻Technologies
  
 - eclipse IDE 
    - Spring Boot 
